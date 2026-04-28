@@ -1,0 +1,2 @@
+# Useless
+Practicing using git
